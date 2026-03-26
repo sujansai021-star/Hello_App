@@ -3,7 +3,7 @@ public class HelloApp {
 
         String name = "World";
 
-        // Check if user provided input
+        
         if (args.length > 0) {
             name = args[0];
       }
